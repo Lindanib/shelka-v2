@@ -30,7 +30,7 @@ $bacc=$record['bank_accno'];
 ?>
 <!DOCTYPE html>
 <html>
-<title>Update Employee</title>
+<title>Update Employees</title>
 <body>
 <div class="w3-container" style="padding: 50px 200px 20px 200px">
 <form class="w3-container" action="em-updatephp.php" method="post">
