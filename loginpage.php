@@ -8,8 +8,8 @@
 <center>
 <h2>Login Page</h2><br>
 <form method="post" action="">
-Username : <input type="text" name="username" placeholder="admin"><br><br>
-Password : <input type="password" name="password" placeholder="*****"><br><br>
+Username : <input type="text" name="username" placeholder="Username"><br><br>
+Password : <input type="password" name="password" placeholder="Password"><br><br>
 <input type="submit" name="submit" value="Login">
 </form>
 <?php
